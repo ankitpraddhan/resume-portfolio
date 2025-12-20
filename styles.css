@@ -326,11 +326,11 @@ body {
   color: white;
   padding: 0.3rem 0.8rem;
   border-radius: 20px;
-  font-size: 0.85rem;
+  font-size: 0.8remm;
 }
 
 /* Certifications Section */
-.cert-list {
+.cert-list
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
   gap: 1.5rem;
